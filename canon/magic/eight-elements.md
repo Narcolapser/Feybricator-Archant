@@ -45,6 +45,10 @@ The relationship between elements and familiar phenomena—including fire, water
 
 The analogy to particles and chemistry is structural, not a claim that the world or its magic follows real-world atomic physics.
 
+### Individual Element Proposals
+
+- [The Soul-Like Element](soul-element.md) — a proposed element connecting ordered mineral structures, internal governance in golems and natural life, and later circuitry. Its name and signature combination remain undecided. This linked proposal awaits author approval.
+
 ## Practical Importance
 
 The eight elements, rather than their underlying signatures, are the principal level at which most understanding and practical use of the elemental foundation operate, including magical practice.
