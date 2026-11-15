@@ -30,6 +30,8 @@ Haju is a loner and lives without a permanent home. Despite his homelessness, he
 
 ## The Orphaned Girl
 
+![The smiling orphaned human girl reaches for Haju's free hand as he stands uncertainly with his carved quarterstaff and crimson eye covering.](../../assets/images/9921f6de-b729-4b34-9947-5631a7d2e804.png)
+
 Haju inadvertently becomes a surrogate father to an orphaned human girl. He decides to care for her, though he is not pleased about taking on that responsibility. His initial reason for doing so remains undecided.
 
 In Haju's culture, humans occupy one of the lowest positions within slavery. The girl's circumstances and the exact legal or social nature of her relationship with Haju remain to be developed; his role as her caregiver does not yet establish whether he owns her, frees her, or encounters her under some other arrangement.
